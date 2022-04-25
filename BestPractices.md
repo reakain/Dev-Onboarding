@@ -1,4 +1,4 @@
-# Best Practicies for Coding and Git
+# Best Practices for Coding and Git
 This document keeps a listing of best practices and good methods for working with git and general coding expectations.
 
  - [Git Specific Housekeeping](#git-specific-housekeeping)
