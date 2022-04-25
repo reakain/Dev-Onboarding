@@ -1,5 +1,10 @@
-# Best Practicies for Working with Git
+# Best Practicies for Coding and Git
 This document keeps a listing of best practices and good methods for working with git and general coding expectations.
+
+ - [Git Specific Housekeeping](#git-specific-housekeeping)
+ - [Coding Practices](#coding)
+ - [Documentation](#documentation)
+
 
 ## Git Specific Housekeeping
 These are practices and info specific to working with git.
@@ -39,6 +44,8 @@ Programming projects should have a README file that lists at minimum:
  - Names, links, and versions of any [software dependencies](#dependencies)
  - Known bugs or issues
  - Operating system/programming language and version code was written/tested/compiled on
+
+ A [Template README file](./media/README_template.md) is available as a starting point. A good reference for using markdown is [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Dependencies
 For python in particular, keeping a requirements.txt file using ```pip freeze``` will track all package dependencies and their versions.
